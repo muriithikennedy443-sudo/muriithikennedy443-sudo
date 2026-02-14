@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kennedy Muriithi,
+,
+## About Me
+- I'm currently learning computer programming at the Mahanaim International College.
+- I'm interested in Web Development and AI
+- I'm looking to collaborate on MetaQuotes,the founder of the MetaTrader
 
-<!--
-**muriithikennedy443-sudo/muriithikennedy443-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills I'm Building
+- Git and GitHub
+- Javascript
+- Python
+- Java
 
-Here are some ideas to get you started:
+## Current Projects
+- ChartAI
+-This is a simple AI program written in either Python or Javascript.It is basically used by forex traders.The purpose of this program is that it can analyse the charts,put entries on your behalf and improve the risk management while trading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: muriithikennedy443@gmail.com
+- LinkedIn: github.com/muriithikennedy443-sudo
