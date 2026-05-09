@@ -46,7 +46,7 @@
   <rect x="155" y="126" width="190" height="22" rx="11" fill="#00e5a010" stroke="#00e5a040" stroke-width="1"/>
   <text x="250" y="141" font-family="monospace" font-size="10" fill="#00e5a0" text-anchor="middle">✦ Open to collaborations</text>
   <text x="520" y="50" font-family="monospace" font-size="10" fill="#ffffff15">&lt;html&gt; &lt;css&gt; &lt;javascript&gt;</text>
-  <text x="520" y="70" font-family="monospace" font-size="10" fill="#ffffff10">python · java · git · github</text>
+  <text x="520" y="70" font-family="monospace" font-size="10" fill="#ffffff10">· java · git · github</text>
   <text x="520" y="90" font-family="monospace" font-size="10" fill="#ffffff08">web3 · ai · backend · frontend</text>
   <circle cx="790" cy="30" r="3" fill="#00e5a030"/>
   <circle cx="810" cy="30" r="3" fill="#3b82f630"/>
@@ -62,11 +62,10 @@
 
 ### 👋 About Me
 
-yaml
-Name     : Kennedy Muriithi
-Handle   : muriithikennedy443-sudo
-Role     : Junior Web Developer & CS Student
-School   : Mahanaim International College
+Name     : Kennedy Muriithi<br/>
+Handle   : muriithikennedy443-sudo<br/>
+Role     : Junior Web Developer & CS Student<br/>
+School   : Mahanaim International College<br/>
 Location : Kenya 🇰🇪
 
 
@@ -83,8 +82,6 @@ Location : Kenya 🇰🇪
 <div align="center">
 
 | Frontend | Languages | Tools |
-|:---:|:---:|:---:|
-| 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -96,10 +93,6 @@ Location : Kenya 🇰🇪
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
- 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
  | 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,11 +100,6 @@ Location : Kenya 🇰🇪
  
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
- |
-| 
-
-![Responsive](https://img.shields.io/badge/Responsive-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)
 
  | 
 
@@ -150,16 +138,9 @@ Location : Kenya 🇰🇪
 
 ### 🚀 Current Focus
 
-javascript
-const kennedy = {
-  currentlyLearning : ["HTML", "CSS", "JavaScript", "Python", "Java"],
-  goal              : "Become a Full-Stack Developer",
-  interestedIn      : ["Web Development", "AI", "Backend Systems"],
-  collaborateOn     : "MetaQuotes / MetaTrader projects",
-  askMeAbout        : "Web development basics & getting started with coding"
-};
-
-
+  CurrentlyLearning : ["HTML", "CSS", "JavaScript" , "Java"],<br/>
+  Goal              : "Become a Full-Stack Developer",<br/>
+  interestedIn      : "Web Development", "AI", "Backend Systems",<br/>
 ---
 
 ### 🌐 Connect With Me
